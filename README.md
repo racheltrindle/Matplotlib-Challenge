@@ -18,4 +18,3 @@ As their Chief Data Analyst, you've been given access to the complete data from 
 *Proper labeling of your plots, including aspects like: Plot Titles, Axes Labels, Legend Labels, X and Y Axis Limits, etc.
 *Scatter plots include error bars to allow the company to account for variability between mice.
 *Bar graph indicates tumor growth as red and tumor reduction as green. 
-
